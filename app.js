@@ -39,7 +39,7 @@ app.get('/rates', function(req, res) {
 // Handling GET request
 app.get('/', (req, res) => { 
     res.send('A simple Node App is '
-        + 'running on this server') 
+        + 'running on this server too') 
     res.end() 
 }) 
  
